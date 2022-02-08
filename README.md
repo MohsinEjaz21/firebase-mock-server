@@ -26,3 +26,5 @@ Roll your own [json-server](https://github.com/typicode/json-server) with Google
 > git remote add origin https://github.com/MohsinEjaz21/firebase-json-server.git
 > git branch -M main
 > git push -u origin main
+
+>initial forked https://github.com/narze/firebase-json-server
